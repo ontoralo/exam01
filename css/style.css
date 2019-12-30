@@ -1,0 +1,99 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+	background-image: url(../images/px.jpg);
+}
+
+.sign-form{
+
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.container{
+	width: 1140px;
+	padding: 50px;
+}	
+
+.left-content{
+	width: 50%;
+	float: left;
+	margin: 0 auto;
+}
+.left-content h1{
+	width: 100%;
+	font-size: 35px;
+	display: block;
+	color: white;
+	float: left;
+}
+.and{
+	color: green;
+	padding-right: 50%;
+}
+.left-content p{
+	width: 100%;
+	display: block;
+	color: white;
+	float: left;
+	padding: 20px 0px;
+}
+
+.left-content ul li{
+	width: 100%;
+	display: block;
+	color: white;
+	float: left;
+	
+}
+.left-content ul li a{
+	width: 100%;
+	display: block;
+	color: white;
+	float: left;
+	
+}
+.btn{
+	background-color: blue;
+	width: 25%;
+	border-radius: 20px;
+	padding:10px 0px;
+	border-color: transparent;
+	color: white;
+	margin-top: 15px;
+}
+.form{
+	width: 40%;
+	padding: 40px 15px;
+	float: left;
+	margin: 0 auto;
+	background-color: gray;
+}
+
+.form h2{
+	color: white;
+	text-align: center;
+}
+.form p{
+	color: white;
+	text-align: center;
+	padding-bottom: 40px;
+	padding-top: 10px;
+}
+.form-action{
+	width: 90%;
+	padding: 10px;
+	margin: 10px;
+
+}
+.form-action-but{
+	width: 95.5%;
+	padding: 10px;
+	margin: 10px;
+	color: white;
+	background-color: blue;
+	box-shadow: 2px solid black;
+}
+
